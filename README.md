@@ -14,6 +14,7 @@ ssh-keygen -t ed25519 -C "<EMAIL>"
 <hr>
 
 ### 3. Then press 'enter' three-times.
+<hr>
 
 ### 4. Copy your public SSH key to the clipboard by using below option 1 or 2 command:
 
