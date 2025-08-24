@@ -31,8 +31,7 @@ ssh-keygen -t ed25519 -C "<EMAIL>"
 <hr>
 
 ### 5. Paste it inside --> Github --> Account Settings --> SSH & GPG Keys --> Add New SSH Key -->key(text-area)-->Save
-
-<hr>
+---
 ## 📬 Contact
 
 - **Portfolio:** [Roshan Rawal's Portfolio](https://your-portfolio-link.com)  
