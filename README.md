@@ -33,5 +33,16 @@ ssh-keygen -t ed25519 -C "<EMAIL>"
 ### 5. Paste it inside --> Github --> Account Settings --> SSH & GPG Keys --> Add New SSH Key -->key(text-area)-->Save
 
 <hr>
+## 📬 Contact
+
+- **Portfolio:** [Roshan Rawal's Portfolio](https://your-portfolio-link.com)  
+- **GitHub:** [Roshan Rawal's GitHub](https://github.com/your-github-username)  
+- **LinkedIn:** [Roshan Rawal's LinkedIn](https://www.linkedin.com/in/your-linkedin-id/)  
+- **Email:** roshanrawal@zuckonit.com  
+
+---
+## 📜 License
+
+This project is licensed under the **MIT License** – see the [LICENSE](./LICENSE) file for details.
 
 ##### <buttom>By Roshan Rawal</button>
